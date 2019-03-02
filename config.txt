@@ -1,0 +1,6 @@
+owner=432154496790167574
+prefix=!
+game=Break | !calgms8play
+stayinchannel=true
+songinstatus=false
+token=NTUxNDgzMDQyNjQ1MTQ3NjQ4.D1xoQw.18ifKHIWdnZ8kKFQchxjqFSUGJ4
