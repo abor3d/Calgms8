@@ -1,6 +1,6 @@
 owner=432154496790167574
 prefix=!
-game=Break | !!play
+game=calgms8 | !play
 stayinchannel=true
 songinstatus=true
 token=NTUxNDgzMDQyNjQ1MTQ3NjQ4.D1xoQw.18ifKHIWdnZ8kKFQchxjqFSUGJ4
