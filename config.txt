@@ -1,6 +1,6 @@
-owner=432154496790167574
+owner=516473846983950336
 prefix=!
-game=calgms8 | !play
+game=Break | !play
 stayinchannel=true
-songinstatus=true
-token=NTUxNDgzMDQyNjQ1MTQ3NjQ4.D1xoQw.18ifKHIWdnZ8kKFQchxjqFSUGJ4
+songinstatus=false
+token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
